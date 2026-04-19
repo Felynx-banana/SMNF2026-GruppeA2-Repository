@@ -1,31 +1,32 @@
 ---
-title: "abstractGruppe2"
-format: html
+title: "einen **Titel**"
+format:
+    html: default
+    pdf:
+      papersize: "a4paper"
 authors:
   - name: "Solea Wehber"
     email: "solea.wehber@student.uni-luebeck.de"
   - name: "Person 2"
     email: "mail2"
 editor: visual
+toc: true
+#mainfont: "Wingdings"
+date: today
+date-format: long
+lang: de
+
+fontsize: "12"
 ---
+https://github.com/Felynx-banana/SMNF2026-GruppeA2-Repository#
 
-## Quarto
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+# 1. Einleitung
 
-## Running Code
+# 2. Literaturübersicht
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+# 3. Studie 1
 
-```{r}
-1 + 2
-```
+# 4. Studie 2
 
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-6767 * 16333
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+# 5. Diskussion
