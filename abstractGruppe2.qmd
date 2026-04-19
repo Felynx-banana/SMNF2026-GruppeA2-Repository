@@ -1,6 +1,11 @@
 ---
 title: "abstractGruppe2"
 format: html
+authors:
+  - name: "Solea Wehber"
+    email: "solea.wehber@student.uni-luebeck.de"
+  - name: "Person 2"
+    email: "mail2"
 editor: visual
 ---
 
