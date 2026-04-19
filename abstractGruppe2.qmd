@@ -5,8 +5,6 @@ format:
     pdf:
       papersize: "a4paper"
 authors:
-  - name: "Solea Wehber"
-    email: "solea.wehber@student.uni-luebeck.de"
   - name: "Person 22"
     email: "mail2"
 editor: visual
