@@ -18,6 +18,7 @@ fontsize: "12"
 ---
 https://github.com/Felynx-banana/SMNF2026-GruppeA2-Repository#
 
+[put latest commit hash here]
 
 # 1. Einleitung
 
