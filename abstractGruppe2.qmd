@@ -7,7 +7,7 @@ format:
 authors:
   - name: "Solea Wehber"
     email: "solea.wehber@student.uni-luebeck.de"
-  - name: "Person 2"
+  - name: "Person 22"
     email: "mail2"
 editor: visual
 toc: true
